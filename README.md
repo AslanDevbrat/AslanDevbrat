@@ -69,17 +69,21 @@
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Frameworks</b><img src="https://media.giphy.com/media/Uv2o6s9vqd6F6jisSr/giphy.gif" height="25px" ></summary>
   <br/>
+ <p align="center">
   <a href='https://profile.codersrank.io/user/aslandevbrat/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aslandevbrat&show-other-skills=true&bg=1A1B27&padding=30' align="center">
+  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aslandevbrat&show-other-skills=true&bg=1A1B27&padding=30' align="center" width = "500px">
   </a>
+  </p>
 
 </details>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Weekly&nbsp;Wonted</b><img src="https://media.giphy.com/media/Uv2o6s9vqd6F6jisSr/giphy.gif" height="25px" ></summary>
   <br/>
+  <p align = "center">
   <a href='https://wakatime.com/@AslanDevbrat'>
-  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=AslanDevbrat&custom_title=This%20week%27s%20activities&theme=tokyonight' align="center">
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=AslanDevbrat&custom_title=This%20week%27s%20activities&theme=tokyonight' align="center" width="400px">
   </a>
+  </p>
 
 </details>
