@@ -33,7 +33,7 @@
 
  <h3 align="center">Check this repo:<img src="https://media.giphy.com/media/3us1ccZO1NbPMceyKv/giphy.gif" height="25px" ></h3>
  <p align="center">
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aslandevbrat&repo=gesture_VidGame&theme=tokyonight" alt="aslandevbrat" /></p>
+ <p align="center"><a href="https://github.com/AslanDevbrat/gesture_VidGame" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aslandevbrat&repo=gesture_VidGame&theme=tokyonight" alt="aslandevbrat" /></a></p>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aslandevbrat&repo=gesture_VidGame&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
  
 </p>
