@@ -74,3 +74,12 @@
   </a>
 
 </details>
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Weekly&nbsp;Wonted</b><img src="https://media.giphy.com/media/Uv2o6s9vqd6F6jisSr/giphy.gif" height="25px" ></summary>
+  <br/>
+  <a href='https://wakatime.com/@AslanDevbrat'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=AslanDevbrat&custom_title=This%20week%27s%20activities&theme=tokyonight' align="center">
+  </a>
+
+</details>
