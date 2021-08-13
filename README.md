@@ -83,7 +83,8 @@
   <p align = "center">
   <a href='https://wakatime.com/@AslanDevbrat'>
   <img src='https://github-readme-stats.vercel.app/api/wakatime?username=AslanDevbrat&custom_title=This%20week%27s%20activities&theme=tokyonight' align="center" width="400px">
-  </a>
+   </a>
   </p>
+  <p align= "center">Note: <b>"Other"</b> correspond to the time spent on Jupyter Notebook</p>
 
 </details>
