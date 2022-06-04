@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Devbrat Anuragi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">, I'm Devbrat Anuragi</h1>
 <h3 align="center">An experienced Android Developer and ML/AI enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aslandevbrat&label=Profile%20views&color=0e75b6&style=flat" alt="aslandevbrat" /> </p>
@@ -9,21 +9,21 @@
 
 <ul text-align="center">
 
-- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30px"> I’m currently working on **Human pose estimation**
+- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="3%"> I’m currently working on **Human pose estimation**
 
-- <img src="https://media.giphy.com/media/fjOdkUskrUGyOZTHhQ/giphy.gif" width="30px"> I’m currently learning **Flask, Kubernetes, Docker, Flutter**
+- <img src="https://media.giphy.com/media/fjOdkUskrUGyOZTHhQ/giphy.gif" width="3%"> I’m currently learning **Flask, Kubernetes, Docker, Flutter**
 
-- <img src="https://media.giphy.com/media/ekdrkc4RgB3elF8e7t/giphy.gif" width="30px"> I’m looking to collaborate on [Gesture Controlled Video Game](https://github.com/AslanDevbrat/gesture_VidGame)
+- <img src="https://media.giphy.com/media/ekdrkc4RgB3elF8e7t/giphy.gif" width="3%"> I’m looking to collaborate on [Gesture Controlled Video Game](https://github.com/AslanDevbrat/gesture_VidGame)
 
-- <img src="https://media.giphy.com/media/WQINRXYXaqVx6g4Eza/giphy.gif" width="30px"> All of my projects are available at [https://github.com/AslanDevbrat/](https://github.com/AslanDevbrat/)
+- <img src="https://media.giphy.com/media/WQINRXYXaqVx6g4Eza/giphy.gif" width="3%"> All of my projects are available at [https://github.com/AslanDevbrat/](https://github.com/AslanDevbrat/)
 
-- <img src="https://media.giphy.com/media/Q8gV5cZiirOBhMzTCY/giphy.gif" width="30px"> I regularly write articles on [https://devbrat9156.medium.com/](https://devbrat9156.medium.com/)
+- <img src="https://media.giphy.com/media/Q8gV5cZiirOBhMzTCY/giphy.gif" width="3%"> I regularly write articles on [https://devbrat9156.medium.com/](https://devbrat9156.medium.com/)
 
-- <img src="https://media.giphy.com/media/VbnW8c9G3ICRUXTjH1/giphy.gif" width="30px"> Ask me about **Python,Andorid**
+- <img src="https://media.giphy.com/media/VbnW8c9G3ICRUXTjH1/giphy.gif" width="3%"> Ask me about **Python,Andorid**
 
-- <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="30px"> How to reach me **devbrat9156@gmail.com**
+- <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="3%"> How to reach me **devbrat9156@gmail.com**
 
-- <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30px"> Fun fact **1+1=10**
+- <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="3%"> Fun fact **1+1=10**
  </ul>
  </p>
 
@@ -57,14 +57,14 @@
 
 <br>
 <h3 align="center">Connect with me:  <img src="https://media.giphy.com/media/rkzUVAQe0zC52ActrJ/giphy.gif" height="25px" ></h3>
-<p align="center">
-<a href="https://linkedin.com/in/devbrat-anuragi" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="devbrat-anuragi" height="50" width="50" /></a>
-<a href="https://kaggle.com/devbratanuragi17078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devbratanuragi17078" height="30" width="40" /></a>
-<a href="https://fb.com/devbrat.anuragi.9" target="blank"><img align="center" src="https://media.giphy.com/media/J5XlOw4DE9zaiQUeGM/giphy.gif" alt="devbrat.anuragi.9" height="50" width="50" /></a>
-<a href="https://instagram.com/dev_aslan" target="blank"><img align="center" src="https://media.giphy.com/media/eTtXHP8CyQHHa4M8EM/giphy.gif" alt="dev_aslan" height="50" width="50" /></a>
-<a href="https://medium.com/@devbrat9156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devbrat9156" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aslandevbrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslandevbrat" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/9920617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9920617" height="30" width="40" /></a>
+<p align="center"> 
+<a href="https://linkedin.com/in/devbrat-anuragi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="devbrat-anuragi" height="4%" width="4%" /></a> 
+<a href="https://kaggle.com/devbratanuragi17078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devbratanuragi17078" height="4%" width="4%" /></a>
+<a href="https://fb.com/devbrat.anuragi.9" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" alt="devbrat.anuragi.9" height="4%" width="4%" /></a>
+<a href="https://instagram.com/dev_aslan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="dev_aslan" height="50" width="5%" /></a>
+<a href="https://medium.com/@devbrat9156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devbrat9156" height="4%" width="4%" /></a>
+<a href="https://www.leetcode.com/aslandevbrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslandevbrat" height="4%" width="4%" /></a>
+ <a href="https://stackoverflow.com/users/9920617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9920617" height="4%" width="4%" /></a>
 </p>
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Frameworks</b><img src="https://media.giphy.com/media/Uv2o6s9vqd6F6jisSr/giphy.gif" height="25px" ></summary>
